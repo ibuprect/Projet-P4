@@ -99,7 +99,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
 }
 
@@ -262,6 +262,7 @@ a:hover {
 
 .l-bloc .navbar-toggle .icon-bar {
     color: rgba(0, 0, 0, .6);
+    height: 1px;
 }
 
 .d-bloc .panel .btn-wire,
@@ -410,6 +411,7 @@ figcaption p {
 .navbar-toggle .icon-bar {
     background-color: rgba(0, 0, 0, .5);
     width: 26px;
+    height: 1px;
 }
 
 .collapse.in {
@@ -984,7 +986,7 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
