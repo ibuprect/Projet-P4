@@ -13,7 +13,6 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
     text-decoration: none;
 }
 
@@ -336,7 +335,7 @@ blockquote {
 }
 
 figcaption p {
-    color: #F3976C!important;
+    color: #364577!important;
     font-size: 19px;
     font-weight: 400;
 }
@@ -555,9 +554,6 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
-    outline: none!important;
-}
 
 .btn-rd {
     border-radius: 40px;
@@ -817,7 +813,7 @@ label {
 }
 
 p {
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
@@ -872,7 +868,7 @@ h2
 {
     font-size: 22px;
     line-height: 1.4em;
-    color: #F3976C!important;
+    color: #364577!important;
     font-weight: 600!important;
 }
 
@@ -925,7 +921,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #364577;
     padding: 40px 10px;
     margin: auto;
 }
@@ -944,7 +940,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #364577;
 }
 
 .tc-white {
@@ -955,13 +951,14 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #364577;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #364577!important;
     color: #FFFFFF!important;
+    align-items: center;
 }
 
 .ltc-white {
