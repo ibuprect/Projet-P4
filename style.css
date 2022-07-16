@@ -34,7 +34,7 @@ a:hover {
     width: 100%;
     clear: both;
     background: 50% 50% no-repeat;
-    padding: 0 50px;
+    padding: 0 3.125em;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -48,16 +48,17 @@ a:hover {
 }
 
 #bloc-7 h2 {
-    margin: 25px 0;
+    margin: 1.5625em 0;
 }
 
 .bloc-lg {
-    padding: 100px 50px;
+    padding: 6.25em 3.125em;
 }
 
 .bloc-md {
     padding: 50px;
 }
+
 
 .bloc-sm {
     padding: 20px 50px;
@@ -328,7 +329,7 @@ figure {
 
 blockquote {
     border-left: none;
-    font-size: 19px;
+    font-size: 1.1875em;
     margin: 3px 3px 0 3px;
     font-style: italic;
     padding: 10px 20px 0 20px;
@@ -336,7 +337,7 @@ blockquote {
 
 figcaption p {
     color: #364577!important;
-    font-size: 19px;
+    font-size: 1.1875em;
     font-weight: 400;
 }
 
@@ -369,8 +370,8 @@ figcaption p {
 
 .nav > li {
     float: left;
-    margin-top: 4px;
-    font-size: 16px;
+    margin-top: 0.25em;
+    font-size: 1em;
     position: relative;
     display: block;
 }
@@ -567,11 +568,11 @@ nav .caret {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 1.875em!important;
 }
 
 .icon-lg {
-    font-size: 60px!important;
+    font-size: 3.75em!important;
 }
 
 .sm-shadow {
@@ -983,11 +984,11 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("img/dots-bg.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.webp");
 }
 
 .bg-banniere {
