@@ -883,6 +883,13 @@ h3 {
     color: #333333!important;
 }
 
+.h4 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333333!important;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
